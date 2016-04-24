@@ -37,3 +37,5 @@
   'alt-g': 'atom-cscope:find-global-definition'
   'alt-c': 'atom-cscope:find-functions-calling'
   'alt-t': 'atom-cscope:find-text-string'
+  'ctrl-alt-s': 'symbols-tree-view:toggle'
+  'ctrl-alt-p': 'activate-power-mode:toggle'
